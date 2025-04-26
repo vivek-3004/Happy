@@ -7,20 +7,32 @@ window.addEventListener('load', function() {
 // Existing word floating code
 const words = [
     "You Are Amazing 💖",
+    "Sandli👸",
     "Believe In Yourself ✨",
+    "Miss.Positivity🧙‍♀️",
     "You Can Do It 💪",
+    "Sandli🎈",
     "Keep Smiling 😊",
+    "Madam🎀",
     "Stay Positive 🌟",
+    "Sandli",
     "Dream Big 🌈",
+    "Choti Bachi💝",
     "Shine Bright 🔥",
-    "You Matter 💫",
+    "Think About Yourself🤍",
+    "Sandli Only You Matter 💫",
+    "Sandli💕",
     "Never Give Up 🚀",
     "Happiness Is Yours 💕",
     "You Are Loved 🫶",
+    "Sandli🎀",
     "Be Fearless 🦋",
     "Stay Strong 🛡️",
+    "Sandli You Are Awesome",
     "Keep Growing 🌱",
+    "Sandli🦋",
     "You Light Up The World 🌍"
+    "Whole World Is Your 😊"
 ];
 
 const container = document.getElementById('words-container');
