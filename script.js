@@ -31,7 +31,7 @@ const words = [
     "Sandli You Are Awesome",
     "Keep Growing 🌱",
     "Sandli🦋",
-    "You Light Up The World 🌍"
+    "You Light Up The World 🌍",
     "Whole World Is Your 😊"
 ];
 
